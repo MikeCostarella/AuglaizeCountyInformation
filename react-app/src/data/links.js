@@ -19,7 +19,7 @@ export const AUDITOR_VENDOR = "Pivot Point (Data Dynamics)";
 export const LINKS = [
   // ---------- Government ----------
   { name: "Auglaize County (Official Site)", category: "Government", subcategory: "County", url: "https://www2.auglaizecounty.org/", description: "Official government portal for Auglaize County, Ohio (county seat: Wapakoneta)." },
-  { name: "Auglaize County Auditor", category: "Government", subcategory: "Auditor", url: "https://auglaizeoh-auditor.ddti.net/", description: "Property records, valuations, and parcel/property search (hosted on Pivot Point / Data Dynamics)." },
+  { name: "Auglaize County Auditor", category: "Government", subcategory: "Auditor", url: "https://auditoraccess.auglaizecounty.org/", description: "Property records, valuations, and parcel/property search (hosted on Pivot Point / Data Dynamics)." },
   { name: "Auglaize County Board of Elections", category: "Government", subcategory: "Elections", url: "https://auglaize.boe.ohio.gov/", description: "Voter registration, polling locations, and election administration." },
   { name: "City of Wapakoneta", category: "Government", subcategory: "City", url: "https://www.wapakoneta.net/", description: "Government site for the City of Wapakoneta, the county seat." },
   // ---------- Education ----------
